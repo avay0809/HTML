@@ -300,4 +300,6 @@ Now, finally, your browser has the IP address it needs. It can now open a direct
 
 The DNS process is complete.
 
-<img width="1276 px" height="542 px" alt="image" src="https://github.com/user-attachments/assets/5214f19c-4331-4a80-8b1c-72b8a0a7b4c4" />
+<!-- <img width="1276 px" height="542 px" alt="image" src="https://github.com/user-attachments/assets/5214f19c-4331-4a80-8b1c-72b8a0a7b4c4" /> -->
+
+<img alt="" src="/image/attachment%3Aff5fa8a8-60d2-4452-b583-bc0242ba6145%3AUntitled-2025-08-19-2016.png?table=block&amp;id=2613a78e-0e22-808d-b422-faa3729f55a5&amp;spaceId=85b3a78e-0e22-8163-8532-00036520fffe&amp;width=1420&amp;userId=&amp;cache=v2" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 2px; height: 5412.39px; pointer-events: auto; width: 100%; max-height: 5412.39px;">
