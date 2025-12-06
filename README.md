@@ -1,4 +1,4 @@
-# Web Development Course
+# Web Development
 
 ## HOW Does Internet Work
 
