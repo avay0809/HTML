@@ -300,4 +300,4 @@ Now, finally, your browser has the IP address it needs. It can now open a direct
 
 The DNS process is complete.
 
-<img width="20480" height="30000" alt="image" src="https://github.com/user-attachments/assets/5214f19c-4331-4a80-8b1c-72b8a0a7b4c4" />
+<img width="1276 px" height="542 px" alt="image" src="https://github.com/user-attachments/assets/5214f19c-4331-4a80-8b1c-72b8a0a7b4c4" />
