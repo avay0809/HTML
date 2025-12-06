@@ -300,6 +300,12 @@ Now, finally, your browser has the IP address it needs. It can now open a direct
 
 The DNS process is complete.
 
+#important Links  for Visiting Website
+ FOR Domain NAME           https://www.nslookup.io/  
+ FOR IP ADDRESS                https://whatismyipaddress.com/
+ FOR NETWORK CABLE                 https://www.submarinecablemap.com/
+
+
 
 
 <img alt="" src="https://github.com/user-attachments/assets/5214f19c-4331-4a80-8b1c-72b8a0a7b4c4" referrerpolicy="same-origin" style="display: block; object-fit: cover; border-radius: 2px; height: 5412.39px; pointer-events: auto; width: 100%; max-height: 5412.39px;">
